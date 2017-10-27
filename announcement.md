@@ -1,0 +1,16 @@
+
+# Callisto Morns - a Jupyter conference 11/11/17 at Georgia Tech Research Institute
+
+We are very excited to announce [Callisto Morns](https://callisto-morns.github.io), a series of [Jupyter](https://jupyter.org)-related conferences in the Atlanta area.  The first Callisto Morn event will be November 11, 2017 at the Georgia Tech Research Institute on 14th street from 9am-1pm.  This accessible and inclusive event will present diverse work from local Jupyter users working in design, software, and science.  The 40-50 attendees will learn how Project Jupyter is being used to innovate across many technology-driven disciplines.
+
+We are currently [accepting proposal submission and volunteering inquiries](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform);  announcements for tickets will follow in the coming weeks.  Until then [chat with us on gitter](https://gitter.im/callisto-one/Lobby) or [ask any questions](https://github.com/callisto-morns/one/issues) you may have.
+
+This event is brought to y'all by the organizers of [Jupyter Day Atlanta 2016](https://jupyterday-atlanta-2016.github.io).
+
+## Meetup
+
+We are very excited to announce [url=https://callisto-morns.github.io]Callisto Morns[/url], a series of [url=https://jupyter.org]Jupyter[/url]-related conferences in the Atlanta area.  The first Callisto Morn event will be November 11, 2017 at the Georgia Tech Research Institute on 14th street from 9am-1pm.  This accessible and inclusive event will present diverse work from local Jupyter users working in design, software, and science.  The 40-50 attendees will learn how Project Jupyter is being used to innovate across many technology-driven disciplines.
+
+We are currently [url=https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform]accepting proposal submission and volunteering inquiries[/url];  announcements for tickets will follow in the coming weeks.  Until then [url=https://gitter.im/callisto-one/Lobby]chat with us on gitter[/url] or [url=https://github.com/callisto-morns/one/issues]ask any questions[/url] you may have.
+
+This event is brought to y'all by the organizers of [url=https://jupyterday-atlanta-2016.github.io]Jupyter Day Atlanta 2016[/url].

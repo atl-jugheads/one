@@ -1,0 +1,4 @@
+notebook
+pandas
+git+https://github.com/tonyfast/importable
+git+https://github.com/tonyfast/literacy
